@@ -1,15 +1,23 @@
-# Victoria Jideani — Personal Portfolio & Technical Applications Showcase
+<p align="center">
+  <img src="https://raw.githubusercontent.com/vjideani/foodscience_ai_portfolio.github.io/main/assets/images/Picture1.jpg" alt="Victoria Jideani" width="140" height="140" style="border-radius: 50%; object-fit: cover; border: 3px solid #0f766e; box-shadow: 0 4px 12px rgba(0,0,0,0.15);" />
+</p>
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-0f766e.svg)](LICENSE)
-[![Live Apps: Firebase](https://img.shields.io/badge/Live%20Apps-Firebase%20Hosted-FFCA28?logo=firebase&logoColor=black)](https://studio--studio-8980355406-a2c71.us-central1.hosted.app/)
-[![Analytics: Enabled](https://img.shields.io/badge/Analytics-Active%20Metrics-0075FF?logo=googleanalytics&logoColor=white)](#-analytics--performance-tracking)
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![React & TS](https://img.shields.io/badge/React%20%26%20TS-61DAFB?logo=react&logoColor=black)](https://react.dev/)
+<h1 align="center">Victoria Jideani — Personal Portfolio & Technical Applications Showcase</h1>
 
-> **Food Scientist · Food Safety Consultant · AI Product Builder**  
-> *Bridging Food Science, Regulatory Compliance, and Agentic AI Applications.*
+<p align="center">
+  <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-0f766e.svg" alt="License: MIT"></a>
+  <a href="https://studio--studio-8980355406-a2c71.us-central1.hosted.app/"><img src="https://img.shields.io/badge/Live%20Apps-Firebase%20Hosted-FFCA28?logo=firebase&logoColor=black" alt="Live Apps: Firebase"></a>
+  <a href="#-analytics--performance-tracking"><img src="https://img.shields.io/badge/Analytics-Active%20Metrics-0075FF?logo=googleanalytics&logoColor=white" alt="Analytics: Enabled"></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" alt="HTML5"></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" alt="CSS3"></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript"></a>
+  <a href="https://react.dev/"><img src="https://img.shields.io/badge/React%20%26%20TS-61DAFB?logo=react&logoColor=black" alt="React & TS"></a>
+</p>
+
+<blockquote align="center">
+  <strong>Food Scientist · Food Safety Consultant · AI Product Builder</strong><br>
+  <em>Bridging Food Science, Regulatory Compliance, and Agentic AI Applications.</em>
+</blockquote>
 
 ---
 

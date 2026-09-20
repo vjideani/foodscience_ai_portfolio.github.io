@@ -115,46 +115,6 @@ portfolio/
 └── README.md         # Project documentation, app skills, analytics, & deployment guide
 ```
 
----
-
-## 🚀 Local Setup & Development
-
-To view or work on this portfolio locally:
-
-### Option 1: Direct File Opening
-1. Clone or download this repository to your computer.
-2. Double-click `index.html` to open it directly in any web browser.
-
-### Option 2: Local HTTP Server (Recommended)
-Running a local web server ensures web fonts, SVG graphics, and scripts execute cleanly.
-
-**Using Python:**
-```bash
-# Navigate to the portfolio directory
-cd portfolio
-
-# Start a local HTTP server on port 8000
-python -m http.server 8000
-```
-Open your browser and visit `http://localhost:8000`.
-
-**Using VS Code Live Server:**
-1. Open the portfolio folder in [Visual Studio Code](https://code.visualstudio.com/).
-2. Install the **Live Server** extension.
-3. Click **"Go Live"** in the status bar.
-
----
-
-## 🌐 Deployment Instructions
-
-### Deploying to GitHub Pages
-1. Push your repository to GitHub (e.g., `github.com/vjideani/foodscience_ai_portfolio.github.io`).
-2. Navigate to **Settings** → **Pages**.
-3. Under **Build and deployment** → **Branch**, select `main` and folder `/ (root)`.
-4. Click **Save**. Your site will be published at `https://vjideani.github.io/`.
-
----
-
 ## 📬 Contact & Links
 
 - **Email**: [vjideani@gmail.com](mailto:vjideani@gmail.com)
@@ -162,8 +122,3 @@ Open your browser and visit `http://localhost:8000`.
 - **LinkedIn**: [linkedin.com/in/victoria-jideani-5316241b4](https://www.linkedin.com/in/victoria-jideani-5316241b4)
 - **Location**: Texas, United States
 
----
-
-## 📄 License
-
-This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.

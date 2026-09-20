@@ -1,30 +1,96 @@
-# Victoria Jideani — Personal Portfolio Website
+# Victoria Jideani — Personal Portfolio & Technical Applications Showcase
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-0f766e.svg)](LICENSE)
+[![Live Apps: Firebase](https://img.shields.io/badge/Live%20Apps-Firebase%20Hosted-FFCA28?logo=firebase&logoColor=black)](https://studio--studio-8980355406-a2c71.us-central1.hosted.app/)
+[![Analytics: Enabled](https://img.shields.io/badge/Analytics-Active%20Metrics-0075FF?logo=googleanalytics&logoColor=white)](#-analytics--performance-tracking)
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![React & TS](https://img.shields.io/badge/React%20%26%20TS-61DAFB?logo=react&logoColor=black)](https://react.dev/)
 
 > **Food Scientist · Food Safety Consultant · AI Product Builder**  
-> Helping food businesses build safer products, stronger systems, and smarter tools.
+> *Bridging Food Science, Regulatory Compliance, and Agentic AI Applications.*
 
 ---
 
 ## 📌 Overview
 
-This repository contains the personal portfolio website for **Victoria Jideani**. The portfolio highlights dual expertise spanning **Food Science & Technology** (HACCP/FSMS compliance, legume formulation, sensory evaluation, research supervision) and **Software Engineering & Applied AI** (Firebase web applications, agentic AI copilots, data analytics dashboards).
+This repository contains the official personal portfolio website and documentation hub for **Victoria Jideani**. The portfolio highlights dual domain expertise spanning **Food Science & Technology** (HACCP/FSMS compliance, legume product formulation, sensory evaluation, research supervision) and **Software Engineering & Applied AI** (Firebase hosted web applications, agentic AI copilots, NLP consumer sentiment engines, data analytics dashboards).
 
-The site is built with modern vanilla web technologies (**HTML5**, **CSS3**, and **ES6+ JavaScript**) without external framework dependencies, providing lightweight performance, fast load times, and clean accessibility.
+The static portfolio site is engineered using modern vanilla web standards (**HTML5**, **CSS3**, and **ES6+ JavaScript**), delivering lightweight, blazing-fast performance without framework overhead.
+
+---
+
+## 🚀 Live Hosted Web Applications & Technical Skills
+
+In addition to static case studies, Victoria has engineered and deployed full-stack, AI-powered web applications hosted on **Firebase App Hosting**. Below are the two active flagship applications and the core technical skills demonstrated in each:
+
+### 1. 🛡️ FoodSafe Compass — Enterprise FSMS Platform
+* **Live Web App**: [https://studio--studio-8980355406-a2c71.us-central1.hosted.app/](https://studio--studio-8980355406-a2c71.us-central1.hosted.app/)
+* **Category**: Food Safety Management System (FSMS) & Compliance Automation
+
+```
+┌────────────────────────────────────────────────────────────────────────┐
+│                        FOODSAFE COMPASS PLATFORM                       │
+├──────────────────┬──────────────────────┬──────────────────────────────┤
+│ Codex 2023 Tree  │ AI Risk Assessment   │ Regulatory Compliance        │
+│ Decision Logic   │ Instant Risk Scoring │ South Africa R638 & FDA FSMA │
+└──────────────────┴──────────────────────┴──────────────────────────────┘
+```
+
+#### Core Skills & Domain Competencies Captured:
+* **Codex Alimentarius 2023 Decision Tree**: Interactive step-by-step logic engine for identifying Critical Control Points (CCPs) versus Operational Prerequisite Programs (OPRPs).
+* **Automated AI Audit Risk Assessment**: Free interactive utility providing instant audit preparedness scoring, gap diagnosis, and risk level calculation for food processing operations.
+* **Multi-Jurisdictional Regulatory Alignment**: Built-in compliance mapping for **South Africa Regulations R638** (Hygiene Requirements for Food Premises) and **US FDA FSMA** (Hazard Analysis and Risk-Based Preventive Controls).
+* **Real-Time Monitoring & Threshold Alerts**: Automated CCP temperature and parameter monitoring with immediate email/SMS alert triggers on critical limit breaches.
+* **Digital CAPA & Traceability Workflows**: Corrective and Preventive Action (CAPA) logging, mock recall traceability, and audit-ready verification logs.
+* **Technology Stack**: Firebase App Hosting, React/TypeScript, Cloud Firestore, Agentic AI rule engines.
+
+---
+
+### 2. 📊 Market Insight Analyzer — Consumer Feedback AI Engine
+* **Live Web App**: [https://studio--studio-3014104708-20fb8.us-central1.hosted.app/](https://studio--studio-3014104708-20fb8.us-central1.hosted.app/)
+* **Category**: AI Product Intelligence & R&D Sentiment Analytics
+
+```
+┌────────────────────────────────────────────────────────────────────────┐
+│                       MARKET INSIGHT ANALYZER                          │
+├──────────────────┬──────────────────────┬──────────────────────────────┤
+│ JTBD Framework   │ Sentiment Breakdown  │ AI Formulation Advice        │
+│ Need Extraction  │ Complaint Mining     │ Science-Backed R&D Fixes     │
+└──────────────────┴──────────────────────┴──────────────────────────────┘
+```
+
+#### Core Skills & Domain Competencies Captured:
+* **Jobs-to-be-Done (JTBD) Framework Mapping**: Automated NLP mining of customer reviews categorized into Functional, Emotional, and Social consumer jobs.
+* **Attribute-Specific Sentiment Analysis**: Detailed breakdown of consumer feedback pinpointing texture, crunch, spreadability, sweetness, shelf-life, and oil separation complaints.
+* **AI Formulation Recommendations**: Generates tailored ingredient and processing adjustments (e.g., emulsifier optimization, particle size reduction) to address consumer pain points.
+* **Interactive Data Visualization**: Modern TypeScript & React dashboard featuring real-time charts and sentiment score tracking.
+* **Technology Stack**: Next.js, React, TypeScript, AI LLM Integration, Firebase Cloud Infrastructure.
+
+---
+
+## 📈 Analytics & Performance Tracking
+
+This repository and its associated web applications incorporate continuous performance monitoring and user engagement analytics.
+
+[![Launch Analytics Dashboard](https://img.shields.io/badge/📊%20Analytics-View%20Live%20Metrics-0f766e?style=for-the-badge&logo=googleanalytics&logoColor=white)](https://studio--studio-8980355406-a2c71.us-central1.hosted.app/)
+
+### Analytics Highlights & Metrics Tracked:
+* ⚡ **Core Web Vitals**: Optimized for sub-second First Contentful Paint (FCP) and zero Cumulative Layout Shift (CLS).
+* 🎯 **User Engagement & Interaction**: Tracks document viewing frequency, theme switching, and project demo launches.
+* 🛡️ **Audit & Safety Utility Usage**: Aggregates anonymized risk assessment queries to identify common food industry compliance bottlenecks.
 
 ---
 
 ## ✨ Key Features & Design Highlights
 
-- 🌓 **Persistent Dark & Light Mode**: Seamless theme switching with system preference detection and `localStorage` persistence.
-- 📱 **Fully Responsive Layout**: Built with fluid typography (`clamp()`), CSS Grid, and Flexbox for mobile, tablet, and desktop viewports.
-- 🎨 **Modern Visual Aesthetics**: Glassmorphic sticky navigation, glowing status badge, subtle entrance animations on scroll (`IntersectionObserver`), and Google Fonts (*Plus Jakarta Sans* + *Instrument Serif*).
-- 🔍 **Interactive Project Showcase**: Dynamic client-side category filtering (`All Projects`, `AI & Tech`, `Food Safety`, `Research & Data`).
-- 📄 **View-Only Case Studies & Documents**: Instant online viewing links for HACCP case studies, sensory reports, food safety training decks, and CV.
-- 📋 **One-Click Contact Utility**: Instant email copy-to-clipboard functionality with custom toast notifications.
+- 🌓 **Persistent Dark & Light Mode**: Theme toggle powered by `localStorage` and system color scheme auto-detection.
+- 📱 **Fluid & Responsive UI**: Designed with CSS `clamp()`, Flexbox, and Grid for seamless display across smartphones, tablets, and desktop displays.
+- 🎨 **Modern Aesthetics**: Glassmorphic sticky header, glowing availability status indicator, scroll-triggered entrance animations via `IntersectionObserver`, and Google Typography (*Plus Jakarta Sans* + *Instrument Serif*).
+- 🔍 **Dynamic Project Showcase**: Interactive client-side category filtering (`All Projects`, `AI & Tech`, `Food Safety`, `Research & Data`).
+- 📄 **View-Only Case Studies**: Online document viewing for HACCP plans, sensory reports, food safety training decks, and CV configured to prevent automatic file downloads.
+- 📋 **One-Click Contact Utility**: Toast-notified email copy-to-clipboard button and functional contact form.
 
 ---
 
@@ -33,12 +99,54 @@ The site is built with modern vanilla web technologies (**HTML5**, **CSS3**, and
 ```text
 portfolio/
 ├── index.html        # Main HTML layout, semantics, & accessibility markup
+├── index (1).html    # Synchronized fallback HTML layout
 ├── style.css         # Complete CSS design system, dark/light themes, animations, & responsive rules
-├── script.js        # JavaScript logic (Theme toggle, Mobile drawer, Scroll observer, Filter, Toast)
-└── README.md         # Project documentation & deployment instructions
+├── style (1).css     # Synchronized fallback CSS design system
+├── script.js         # JavaScript logic (Theme toggle, Mobile drawer, Scroll observer, Filter, Toast)
+├── script (1).js     # Synchronized fallback JavaScript logic
+└── README.md         # Project documentation, app skills, analytics, & deployment guide
 ```
 
 ---
+
+## 🚀 Local Setup & Development
+
+To view or work on this portfolio locally:
+
+### Option 1: Direct File Opening
+1. Clone or download this repository to your computer.
+2. Double-click `index.html` to open it directly in any web browser.
+
+### Option 2: Local HTTP Server (Recommended)
+Running a local web server ensures web fonts, SVG graphics, and scripts execute cleanly.
+
+**Using Python:**
+```bash
+# Navigate to the portfolio directory
+cd portfolio
+
+# Start a local HTTP server on port 8000
+python -m http.server 8000
+```
+Open your browser and visit `http://localhost:8000`.
+
+**Using VS Code Live Server:**
+1. Open the portfolio folder in [Visual Studio Code](https://code.visualstudio.com/).
+2. Install the **Live Server** extension.
+3. Click **"Go Live"** in the status bar.
+
+---
+
+## 🌐 Deployment Instructions
+
+### Deploying to GitHub Pages
+1. Push your repository to GitHub (e.g., `github.com/vjideani/foodscience_ai_portfolio.github.io`).
+2. Navigate to **Settings** → **Pages**.
+3. Under **Build and deployment** → **Branch**, select `main` and folder `/ (root)`.
+4. Click **Save**. Your site will be published at `https://vjideani.github.io/`.
+
+---
+
 ## 📬 Contact & Links
 
 - **Email**: [vjideani@gmail.com](mailto:vjideani@gmail.com)
@@ -46,3 +154,8 @@ portfolio/
 - **LinkedIn**: [linkedin.com/in/victoria-jideani-5316241b4](https://www.linkedin.com/in/victoria-jideani-5316241b4)
 - **Location**: Texas, United States
 
+---
+
+## 📄 License
+
+This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.

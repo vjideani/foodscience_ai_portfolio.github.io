@@ -5,7 +5,6 @@
 <h1 align="center">Victoria Jideani — Personal Portfolio & Technical Applications Showcase</h1>
 
 <p align="center">
-  <a href="Power BI"><img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original" alt="Power BI"></a>
   <a href="https://studio--studio-8980355406-a2c71.us-central1.hosted.app/"><img src="https://img.shields.io/badge/Live%20Apps-Firebase%20Hosted-FFCA28?logo=firebase&logoColor=black" alt="Live Apps: Firebase"></a>
   <a href="#-analytics--performance-tracking"><img src="https://img.shields.io/badge/Analytics-Active%20Metrics-0075FF?logo=googleanalytics&logoColor=white" alt="Analytics: Enabled"></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" alt="HTML5"></a>
